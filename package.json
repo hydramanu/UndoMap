@@ -1,0 +1,1 @@
+{"name":"undomap","version":"0.1.0","private":true,"description":"Local-first recovery evidence browser extension","scripts":{"test":"node --test tests/*.test.cjs","build":"python tools/build.py","demo":"python -m http.server 8770 --bind 127.0.0.1"},"engines":{"node":">=20"}}
